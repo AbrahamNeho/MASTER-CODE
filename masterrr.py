@@ -16,7 +16,7 @@ import requests
 VERSION = "1.0.0"
 VERSION_URL = "https://github.com/AbrahamNeho/MASTER-CODE/blob/main/latest_version.txt"
 EXE_URL = "https://github.com/AbrahamNeho/MASTER-CODE/blob/main/masterrr.py"
-APP_NAME = "masterrr.exe"
+APP_NAME = "masterrr.py"
 ############################################################################################
 
 def check_for_update():
